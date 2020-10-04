@@ -1,10 +1,14 @@
 # React turorial - Ninja net
 
-*Frist tutorial about React I'm working
+*First tutorial about React I'm working
 
-## Getting Started
+## Hint
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+MPM Install:
+DevDependencies - Just need this package to dev
+dependecies - Normal. We must this in both
+
+to run: npm start
 
 ### Prerequisites
 
