@@ -10,6 +10,8 @@ dependecies - Normal. We must this in both
 
 to run: npm start
 
+http://localhost:1234/webpack-dev-server/
+
 ### Prerequisites
 
 What things you need to install the software and how to install them

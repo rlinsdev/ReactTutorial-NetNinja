@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rlinsdev/react#readme",
   "dependencies": {
+    "create-react-class": "^15.6.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
